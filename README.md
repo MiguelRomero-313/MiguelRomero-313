@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">My name is Miguel Romero , I’m an eighth semester student at UAEMéx. Passionate about computer science, focused on software development. <br>I’m searching my first opportunity at professional world in an intern position.<br>Open at learning new things and technologies <br><br>- 📚 I'm currently learning Python, Dart and React.</p>
+<p align="left">My name is Miguel Romero , I’m an eighth semester student at UAEMéx. Passionate about computer science, focused on software development. <br>I’m searching my first opportunity at professional world in an intern position.<br>Open at learning new things and technologies <br><br>- 📚 I'm currently learning Python and React.</p>
 
 ###
 
